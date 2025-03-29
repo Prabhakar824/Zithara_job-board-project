@@ -1,4 +1,4 @@
-# Zithara_job-board-project
+
 Project Overview
 
 This is a simple Job Board Platform built using Next.js, Node.js, Tailwind CSS, and MySQL. It allows users to view job listings, add new jobs, and view job details.
